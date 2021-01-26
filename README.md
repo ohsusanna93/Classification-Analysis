@@ -1,7 +1,7 @@
 
 # Introduction
 
-A classifier model is used to predict whether a customer will ("soon") stop doing business with SyriaTel, a telecommunications company. There are a total of 21 different features including the target variable, churn. Churn provides the information of whether or not a customer has stopped doing business with the company. 
+A classifier model is used to predict whether or not a customer will ("soon") stop doing business with SyriaTel, a telecommunications company. There are a total of 21 different features including the target variable, churn. Churn provides the information of whether or not a customer has stopped doing business with the company. 
 
 A random forest algorithm will be used to categorize all the features to predict the target variable. The feature importance will tell us how many times a feature is used to decide whether or not a customer is more likley to churn. The 21 features in this dataset are listed below:
 
