@@ -25,7 +25,10 @@ All the imports and functions used in this project are imported below:
 
 
 # Methods and Functions:
-Random Forest
+Random Forest - 3 models 
+Base
+Randomized Search CV
+Hot Encoded
 
 # Conclusion:
 
