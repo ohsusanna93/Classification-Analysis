@@ -1,5 +1,5 @@
 
-# Introduction
+# Introduction:
 
 A classifier model is used to predict whether or not a customer will ("soon") stop doing business with SyriaTel, a telecommunications company. There are a total of 21 different features including the target variable, churn. Churn provides the information of whether or not a customer has stopped doing business with the company. 
 
@@ -24,9 +24,10 @@ RandomizedSearchCV is an algorithm used to find the best combination of paramete
 All the imports and functions used in this project are imported below: 
 
 
+# Functions:
 
 
-# Conclusion
+# Conclusion:
 
 
 The tuned model was able to provide a more accurate prediction. Therefore three insights/recommendations are listed below:
