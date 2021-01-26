@@ -24,8 +24,8 @@ RandomizedSearchCV is an algorithm used to find the best combination of paramete
 All the imports and functions used in this project are imported below: 
 
 
-# Functions:
-
+# Methods and Functions:
+Random Forest
 
 # Conclusion:
 
