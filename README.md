@@ -21,9 +21,6 @@ A random forest algorithm will be used to categorize all the features to predict
 
 RandomizedSearchCV is an algorithm used to find the best combination of parameters in the model to increase the accuracy of the random forest method in making predictions.
 
-All the imports and functions used in this project are imported below: 
-
-
 # Methods and Functions:
 Random Forest - 3 models 
 Base
@@ -31,7 +28,6 @@ Randomized Search CV
 Hot Encoded
 
 # Conclusion:
-
 
 The tuned model was able to provide a more accurate prediction. Therefore three insights/recommendations are listed below:
 
